@@ -11,8 +11,7 @@ Esta es una aplicación de ajedrez desarrollada en Java. Permite a dos jugadores
 
 ## Requisitos
 
-- Java 8 o superior
-- Biblioteca JavaFX para la interfaz gráfica
+- Java JDK 11 o superior
 
 ## Instalación
 
@@ -51,14 +50,9 @@ Las contribuciones son bienvenidas. Por favor, sigue los siguientes pasos:
 4. Sube tus cambios (`git push origin feature/nueva-funcionalidad`).
 5. Abre un Pull Request.
 
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
-
 ## Contacto
+Para cualquier duda o sugerencia, por favor contacta a polanmarc19@gmail.com.
 
-Para cualquier consulta o sugerencia, puedes contactar con el desarrollador principal:
+---
 
-- Nombre: [Tu Nombre]
-- Email: [tu.email@ejemplo.com]
-- GitHub: [tu-usuario](https://github.com/tu-usuario)
+¡Gracias por utilizar mi aplicacion de Ajedrez!
